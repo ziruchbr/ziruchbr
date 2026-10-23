@@ -1,12 +1,9 @@
 <div align="center">
 
-# Hi, i'm louixscult
+# Hi, i'm Ziruch
 ![Me](icon.jpg)
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@louixscult)
-[![Twiiter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/louixscult)
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/louixscult)
-[![TikTok](https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@louisxcult)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ZiruchBR) [![Twiiter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ZiruchBR)
 
 **I'am a PocketMine-MP plugin developer since 2024, and I have experience in PHP, TypeScript, JavaScript, and Python.**
 
