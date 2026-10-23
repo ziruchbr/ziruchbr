@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, i'm Ziruch
-![Me](icon.jpg)
+![Me](me.jpg)
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ZiruchBR) [![Twiiter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ZiruchBR)
 
